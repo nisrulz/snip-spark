@@ -1,0 +1,14 @@
+[book]
+title = "SnipSpark"
+description = "TYour go-to resource for discovering and sharing practical code snippets for various programming languages."
+authors = ["Nishant Srivastava"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "docs"
+create-missing = false
+
+[output.html]
+no-section-label = true
